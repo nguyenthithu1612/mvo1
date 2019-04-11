@@ -1,0 +1,14 @@
+{
+  "name": "mvo1",
+  "homepage": "https://github.com/nguyenthithu1612/mvo1",
+  "_release": "2d978b036b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2d978b036b45c1cfae8aa960245b9ae369ae4ee9"
+  },
+  "_source": "git@github.com:nguyenthithu1612/mvo1.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:nguyenthithu1612/mvo1.git",
+  "_direct": true
+}
