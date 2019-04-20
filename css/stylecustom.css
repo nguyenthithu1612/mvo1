@@ -1,6 +1,10 @@
 .tagForm {
     width: 18%;
     display: inline-block;
+    padding-left: 13px;
+}
+.tagForm2 {
+    padding-left: 2px;
 }
 .mybt {
     margin-left: 15px;
@@ -8,4 +12,7 @@
 .mytb {
     width: 80%;
     margin: 0 auto;
+}
+.pointer {
+    cursor: pointer!important;
 }
